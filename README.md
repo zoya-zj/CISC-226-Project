@@ -1,1 +1,4 @@
-# CISC-226-Project
+# Haunted Halls
+Developed by Zoya Zarei-Joorshari, Maddie Allington, and Jade Wei.
+
+This is the game design project created for CISC 226.
